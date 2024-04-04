@@ -1,0 +1,68 @@
+[
+  {
+    "houseId": "H001",
+    "Staddress": "123 Main Street",
+    "city": "St. John's",
+    "PostalCode": "A9A9A9",
+    "country": "Canada",
+    "price": 300000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "Status": "vacant"
+  },
+  {
+    "houseId": "H002",
+    "Staddress": "456 Central Lane",
+    "city": "Gander",
+    "PostalCode": "B1B1B1",
+    "country": "Canada",
+    "price": 350000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "Status": "vacant"
+  },
+  {
+    "houseId": "H003",
+    "Staddress": "789 Eastside Rd",
+    "city": "St. John's",
+    "PostalCode": "A0A0A0",
+    "country": "Canada",
+    "price": 280000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "Status": "pending"
+  },
+  {
+    "houseId": "H004",
+    "Staddress": "103 Maple Lane",
+    "city": "Corner Brook",
+    "PostalCode": "B0B0B0",
+    "country": "Canada",
+    "price": 400000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "Status": "sold"
+  },
+  {
+    "houseId": "H005",
+    "Staddress": "245 Pine Road",
+    "city": "Gander",
+    "PostalCode": "A1A1A1",
+    "country": "Canada",
+    "price": 470000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "Status": "vacant"
+  },
+  {
+    "houseId": "H006",
+    "Staddress": "356 Manila Road",
+    "city": "Gander",
+    "PostalCode": "A1A1A1",
+    "country": "Canada",
+    "price": 470000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "Status": "sold"
+  }
+]
